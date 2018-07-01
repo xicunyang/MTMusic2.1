@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\details_yaobi.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\details_yaobi.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_xunhuan.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_xunhuan.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\2d78209ef6da0cd7ed856ff3592e48fc3cd43d84\\output\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_sound.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_sound.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_changpian.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_changpian.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_nowplayitem_style.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_nowplayitem_style.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_t.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\welcome_t.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_pausing.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_pausing.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_icon.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\nav_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\song_item_flag.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\song_item_flag.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_seekbar_background.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_seekbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\67eee40656268d9e78838714a8d0c49bd28da2f2\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_userpic.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\nav_userpic.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_logo.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\welcome_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_next.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_next.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\song_hq.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\song_hq.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_pausing.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_pausing.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_right.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_right.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_share.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_share.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_danqu.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_danqu.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\67eee40656268d9e78838714a8d0c49bd28da2f2\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_zhidian.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_zhidian.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_left.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_left.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\song_finish_download.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\song_finish_download.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_list.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_list.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\67eee40656268d9e78838714a8d0c49bd28da2f2\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_m.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\welcome_m.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_suiji.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_suiji.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_recycler_item.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\ripple_recycler_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_playing.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_playing.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\2d78209ef6da0cd7ed856ff3592e48fc3cd43d84\\output\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_playing.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_playing.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_prev.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_prev.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_fab_main.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_fab_main.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_usic.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\welcome_usic.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\song_playing_flag.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\song_playing_flag.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rv_divider_style.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\rv_divider_style.xml"
+    }
+]

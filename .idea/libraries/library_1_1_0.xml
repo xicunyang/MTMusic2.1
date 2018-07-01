@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c1a00dc58737aab690c3094889c11bfd3b30462f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c1a00dc58737aab690c3094889c11bfd3b30462f/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.imid.swipebacklayout.lib/library/1.1.0/b40b328559b458438980f8d73643d8827480a91a/library-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

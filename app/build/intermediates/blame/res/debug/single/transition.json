@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\transition\\welcome2main.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\transition\\welcome2main.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\transition\\rv2detail.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\transition\\rv2detail.xml"
+    }
+]
