@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\detail_yaobi_up.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\anim\\detail_yaobi_up.xml"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\anim\\abc_popup_exit.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_out.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\anim\\dialog_out.xml"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
@@ -32,12 +40,24 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\detail_yaobi_down.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\anim\\detail_yaobi_down.xml"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\67eee40656268d9e78838714a8d0c49bd28da2f2\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trm_popup_exit.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\d098fcfbe5ce2e9775397fd7fd2d380e91ce018e\\output\\res\\anim\\trm_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trm_popup_enter.xml",
+        "source": "C:\\Users\\在旭\\.android\\build-cache\\d098fcfbe5ce2e9775397fd7fd2d380e91ce018e\\output\\res\\anim\\trm_popup_enter.xml"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
@@ -54,5 +74,9 @@
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_in.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\anim\\dialog_in.xml"
     }
 ]

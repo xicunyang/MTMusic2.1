@@ -25,6 +25,9 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.mutou.www.mtmusic.WelcomeActivity"
+            android:theme="@style/WelcomeTheme" />
+        <activity
+            android:name="com.mutou.www.mtmusic.MainActivity"
             android:theme="@style/MyActivityTranslucentTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,15 +36,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.mutou.www.mtmusic.MainActivity"
-            android:theme="@style/MyActivityTranslucentTheme" />
-        <activity
             android:name="com.mutou.www.pages.Local"
             android:theme="@style/MyActivityTranslucentTheme" />
         <activity android:name="com.mutou.www.pages.Cache" />
         <activity
             android:name="com.mutou.www.mtmusic.DetailActivity"
             android:theme="@style/MyActivityTranslucentTheme" />
+        <activity android:name="com.mutou.www.pages.Sheet" />
     </application>
 
 </manifest>

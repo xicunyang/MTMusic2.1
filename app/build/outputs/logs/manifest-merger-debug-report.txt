@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml
@@ -26,12 +26,13 @@ ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:7:
 	android:name
 		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:9:5-35:19
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:9:5-36:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\在旭\.android\build-cache\a9750294fb0c375ad371ed9dd87be62d47d6d5ca\output\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\在旭\.android\build-cache\9b8882b727398a1a1a08b31fb286f69fd3e7cd65\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\在旭\.android\build-cache\67eee40656268d9e78838714a8d0c49bd28da2f2\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:25.3.1] C:\Users\在旭\.android\build-cache\95fa4e670facb950a790f3b61e3cbe566cced3ff\output\AndroidManifest.xml:26:5-20
 MERGED from [me.imid.swipebacklayout.lib:library:1.1.0] C:\Users\在旭\.android\build-cache\c1a00dc58737aab690c3094889c11bfd3b30462f\output\AndroidManifest.xml:13:5-20
+MERGED from [com.zaaach:toprightmenu:1.0] C:\Users\在旭\.android\build-cache\d098fcfbe5ce2e9775397fd7fd2d380e91ce018e\output\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\在旭\.android\build-cache\836b2a07a398c5d9e3350be36f16bd472aa7344a\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\在旭\.android\build-cache\f7107e579f2aff6c175d9b8d4f94c60e4b3f820b\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\在旭\.android\build-cache\bd7e7435e5bceeb8c2d43710b03d4d955a14e824\output\AndroidManifest.xml:29:5-20
@@ -54,29 +55,29 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\在旭\.android\b
 	android:theme
 		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.mutou.www.mtmusic.WelcomeActivity
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:16:9-18:60
 	android:theme
-		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:18:13-62
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:18:13-48
 	android:name
 		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:17:13-44
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:19:13-23:29
-action#android.intent.action.MAIN
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:20:17-69
-	android:name
-		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:20:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:22:17-77
-	android:name
-		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.mutou.www.mtmusic.MainActivity
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:25:9-27:65
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:theme
-		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:27:13-62
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:21:13-62
 	android:name
-		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:26:13-41
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.mutou.www.pages.Local
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:28:9-30:74
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:28:9-30:65
 	android:theme
 		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:30:13-62
 	android:name
@@ -86,11 +87,15 @@ ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:31
 	android:name
 		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:31:19-59
 activity#com.mutou.www.mtmusic.DetailActivity
-ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:32:9-34:25
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:32:9-34:65
 	android:theme
-		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:33:13-62
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:34:13-62
 	android:name
-		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:32:19-49
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.mutou.www.pages.Sheet
+ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:35:9-71
+	android:name
+		ADDED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml:35:19-59
 uses-sdk
 INJECTED from D:\AndroidCode\Project2.1\MTMusic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\在旭\.android\build-cache\a9750294fb0c375ad371ed9dd87be62d47d6d5ca\output\AndroidManifest.xml:5:5-7:41
@@ -100,6 +105,7 @@ MERGED from [com.android.support:transition:25.3.1] C:\Users\在旭\.android\build
 MERGED from [me.imid.swipebacklayout.lib:library:1.1.0] C:\Users\在旭\.android\build-cache\c1a00dc58737aab690c3094889c11bfd3b30462f\output\AndroidManifest.xml:9:5-11:41
 MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.22] C:\Users\在旭\.android\build-cache\2d78209ef6da0cd7ed856ff3592e48fc3cd43d84\output\AndroidManifest.xml:7:5-9:41
 MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] C:\Users\在旭\.android\build-cache\c6575b37830dda6aac19eb58bc9f83e6b664bb79\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zaaach:toprightmenu:1.0] C:\Users\在旭\.android\build-cache\d098fcfbe5ce2e9775397fd7fd2d380e91ce018e\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\在旭\.android\build-cache\836b2a07a398c5d9e3350be36f16bd472aa7344a\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\在旭\.android\build-cache\f7107e579f2aff6c175d9b8d4f94c60e4b3f820b\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\在旭\.android\build-cache\bd7e7435e5bceeb8c2d43710b03d4d955a14e824\output\AndroidManifest.xml:21:5-23:60

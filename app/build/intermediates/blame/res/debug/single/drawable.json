@@ -20,6 +20,10 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sheet_recycler_item_flag.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\sheet_recycler_item_flag.png"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\2d78209ef6da0cd7ed856ff3592e48fc3cd43d84\\output\\res\\drawable\\sample_footer_loading.png"
     },
@@ -32,12 +36,20 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_changpian.png",
-        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_changpian.png"
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_dialog_addtime.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_dialog_addtime.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sheet_bottom_dialog_more_delete.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\sheet_bottom_dialog_more_delete.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_changpian.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\detail_changpian.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
@@ -62,6 +74,10 @@
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_dialog_alum.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_dialog_alum.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_pausing.png",
@@ -112,6 +128,18 @@
         "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\song_item_flag.png"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sheet_bottom_dialog_add.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\sheet_bottom_dialog_add.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sheet_setting.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\sheet_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_dialog_song.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_dialog_song.png"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\notification_bg_low.xml"
     },
@@ -128,12 +156,20 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_main_popwindow.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\ripple_main_popwindow.xml"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sheet_recycler_item_setting.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\sheet_recycler_item_setting.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nav_userpic.png",
@@ -144,12 +180,20 @@
         "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\welcome_logo.png"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_dialog_item.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\ripple_dialog_item.xml"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_next.png",
         "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_next.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\song_hq.png",
         "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\song_hq.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sheet_bottom_dialog_more_share.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\sheet_bottom_dialog_more_share.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_pausing.png",
@@ -204,12 +248,20 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\67eee40656268d9e78838714a8d0c49bd28da2f2\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_sort.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_sort.png"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_main_dialog_item.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\ripple_main_dialog_item.xml"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_m.png",
@@ -228,6 +280,10 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_setting.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_setting.png"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
@@ -236,12 +292,20 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sheet_bottom_dialog_more_edit.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\sheet_bottom_dialog_more_edit.png"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\在旭\\.android\\build-cache\\836b2a07a398c5d9e3350be36f16bd472aa7344a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_recycler_item.xml",
         "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\ripple_recycler_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diy_popwindow_sort.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\diy_popwindow_sort.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_playing.png",
@@ -256,8 +320,20 @@
         "source": "C:\\Users\\在旭\\.android\\build-cache\\2d78209ef6da0cd7ed856ff3592e48fc3cd43d84\\output\\res\\drawable\\sample_footer_loading_progress.xml"
     },
     {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_dialog_singer.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_dialog_singer.png"
+    },
+    {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_playing.png",
         "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_playing.png"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_waterstyle.xml",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\ripple_waterstyle.xml"
+    },
+    {
+        "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_dialog_flag.png",
+        "source": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\src\\main\\res\\drawable\\main_dialog_flag.png"
     },
     {
         "merged": "D:\\AndroidCode\\Project2.1\\MTMusic\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",

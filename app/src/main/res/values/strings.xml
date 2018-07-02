@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MTMusic</string>
+    <string name="welcome2main">welcome2main</string>
+    <string name="rv2detail">rv2detail</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

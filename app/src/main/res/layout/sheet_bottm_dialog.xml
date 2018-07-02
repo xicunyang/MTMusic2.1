@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="95dp"
+    android:background="#fff"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="歌单管理"
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/MyDark"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#44111111"
+        />
+    <LinearLayout
+        android:id="@+id/sheet_dialog_addSheet"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:background="@drawable/ripple_dialog_item"
+        >
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/sheet_bottom_dialog_add"
+            />
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="创建新歌单"
+            android:textSize="17sp"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="15dp"
+            android:textColor="@color/MyDark"
+            />
+    </LinearLayout>
+
+</LinearLayout>

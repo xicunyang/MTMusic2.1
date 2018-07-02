@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ripple_main_popwindow"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140px"
+        android:paddingLeft="10dp"
+        >
+        <ImageView
+            android:id="@+id/diy_pop_image"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:src="@drawable/diy_popwindow_sort"
+            android:adjustViewBounds="true"
+            android:layout_gravity="center_vertical"
+            />
+        <TextView
+            android:id="@+id/diy_pop_text"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:text="选择排序方式"
+            android:textColor="#111"
+            android:textSize="15sp"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="20dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>
